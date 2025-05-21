@@ -19,7 +19,7 @@ export default defineConfig({
   preview: {
     allowedHosts: [
       // ... 其他已允许的主机 ...
-      'fzkdxbffkrge.sealosbja.site', // 添加此行
+      'poste-creator-devbox-release-svc.tasmj.com',
     ],
   },
   resolve: {
