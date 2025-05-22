@@ -475,7 +475,7 @@ defineExpose({
 
 .clear-canvas-btn {
   position: absolute;
-  top: 0.5rem;
+  top: 0.6rem;
   right: 0.2rem;
   display: flex;
   align-items: center;

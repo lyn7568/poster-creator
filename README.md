@@ -75,10 +75,14 @@ src/
    - 选择导出格式和尺寸
    - 下载生成的海报
 
-## 贡献指南
-
-欢迎提交 Issue 和 Pull Request 来帮助改进这个项目。
-
-## 许可证
-
-MIT License 
+## 开发版本要求
+- Vite 5 需要 18 以上版本的 Node
+- Node.js v18.0.0 或更高版本
+```
+node -v
+nvm install 18
+nvm use 18
+npm install
+npm run dev
+```
+- 升级后，删除依赖和锁文件，重新安装依赖再启动。
